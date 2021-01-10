@@ -1,5 +1,7 @@
 # no-local-dev-getting-started
 
+Forked from https://github.com/heroku/no-local-dev-getting-started
+
 This application that can be used to sync (and then view) data from Salesforce using Heroku Connect.
 
 It supports the [Getting Started on Heroku with Heroku Connect](https://devcenter.heroku.com/articles/getting-started-with-heroku-and-connect-without-local-dev) article - go check it out.
